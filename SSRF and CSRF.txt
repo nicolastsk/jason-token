@@ -1,0 +1,17 @@
+User
+write it simpler please. Server-side request forgery (also known as SSRF) is a web security vulnerability that allows an attacker to induce the server-side application to make HTTP requests to an arbitrary domain of the attacker's choosing. 
+
+ChatGPT
+Sure, here's a simpler explanation:
+
+Server-side request forgery (SSRF) is a type of web security problem. It lets a hacker trick a web application into making requests to any website the hacker wants.
+
+
+
+
+User
+what about csrf
+ChatGPT
+Certainly, here's a simpler explanation of Cross-Site Request Forgery (CSRF):
+
+Cross-Site Request Forgery (CSRF) is another web security issue. It happens when a malicious website tricks you into making an unwanted action on another website where you are logged in, without your knowledge. In simpler terms, it's like someone making you do something on a website without you realizing it.
