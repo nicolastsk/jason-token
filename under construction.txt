@@ -1,0 +1,1 @@
+ python3 jwt_tool.py -t http://35.198.135.192:31216/admin -rc "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwiaWF0IjoxNjk1MDM0MzIzLCJleHAiOjE2OTUxMjA3MjN9.op_8znL8YFxD4l8N8_2TLsphZaqgBFm47kozK4kTHbU" -C -d rockyou.txt
